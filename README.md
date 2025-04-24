@@ -2,7 +2,7 @@
 
 ###  DATE: 24/04/25
 
-###  NAME: DILIP M P
+###  NAME: JANARTHANAN B
 ###  ROLL NO : 212223100014
 ###  DEPARTMENT: CSE(CS)
 ### Aim:
